@@ -5,7 +5,7 @@ import AppButton from './Button'
 const Header = () => {
     const user = false
     return (
-        <div className="flex items-center justify-between w-full h-12 px-10 shadow-sm">
+        <div className="flex items-center justify-between w-full h-12 shadow-sm">
             <div className="relative w-40 h-8 cursor-pointer">
                 <Image
                     src="/logo.webp"
